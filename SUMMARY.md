@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [semester plan](README.md)
 
 ## CST303 NUMERICAL METHOD
 
