@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Untitled](README.md)
 
 ## CST303 NUMERICAL METHOD
 
