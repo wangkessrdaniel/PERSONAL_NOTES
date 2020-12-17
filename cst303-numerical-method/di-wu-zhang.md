@@ -34,6 +34,8 @@ using the Euler's method
 
 ### Higher Order Taylor Method
 
+
+
 FOR THE ORDER N IN THE TM
 
 ![](../.gitbook/assets/6.png)
